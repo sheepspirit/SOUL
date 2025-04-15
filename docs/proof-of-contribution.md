@@ -1,4 +1,3 @@
-```markdown
 # SOUL — Proof-of-Contribution Protocol (PoC)
 
 ## Purpose

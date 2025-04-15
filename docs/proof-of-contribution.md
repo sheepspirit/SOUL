@@ -148,5 +148,3 @@ All user-visible data via SOUL Dashboard:
 - [ ] Build peer validation logic with quorum rules  
 - [ ] Link PoC output to Token Engine for reward generation
 ```
-
----

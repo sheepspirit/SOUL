@@ -147,4 +147,3 @@ All user-visible data via SOUL Dashboard:
 - [ ] Implement Proof Package format and signing protocol  
 - [ ] Build peer validation logic with quorum rules  
 - [ ] Link PoC output to Token Engine for reward generation
-```

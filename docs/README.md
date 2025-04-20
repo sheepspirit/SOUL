@@ -27,3 +27,7 @@ Contributions are welcome! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md
 
 *SOUL is not just a technological endeavor; it's a movement towards ethical, decentralized computing. Join us in shaping the future.*
 
+## 🧬 Project Origins
+
+SOUL was envisioned and initiated by Sergey Kokurin in 2025 as a response to the rising dominance of corporate AI infrastructure. The project aims to empower individuals and communities to take back control over digital intelligence.
+

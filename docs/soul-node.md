@@ -48,57 +48,50 @@ It is lightweight, self-managed, privacy-conscious, and open-source.
 +------------------------+
 
 
-Main Components
+## 🔧 Main Components
 
-1. Task Runner
+### 1. 🧪 Task Runner
 
-Pulls tasks from SOUL Cloud
+- Pulls tasks from SOUL Cloud  
+- Executes safely in sandboxed environments (e.g. Docker)  
+- Supports CPU/GPU-intensive workloads  
+- Measures and logs execution performance in real time  
 
-Executes safely within Docker sandbox or similar isolated environment
+---
 
-Supports CPU- and GPU-intensive workloads
+### 2. 📊 Resource Monitor
 
-Measures execution performance in real-time
+- Uses trusted Linux-native interfaces:  
+  `/proc/stat`, `/proc/meminfo`, `nvidia-smi`, `netstat`, `cgroups`, `perf`  
+- Logs high-resolution usage data  
+- Functions in both standby and low-usage modes  
 
-2. Resource Monitor
+---
 
-Uses trusted Linux-native interfaces:
+### 3. 🔐 PoC Engine (Proof-of-Contribution)
 
-/proc/stat, /proc/meminfo, nvidia-smi, netstat, cgroups, perf
+- Collects detailed resource logs  
+- Computes and signs task output hashes  
+- Packages verifiable PoC reports  
+- Submits to SOUL Cloud or peer verifiers  
 
-Logs high-resolution usage data
+---
 
-Works in both standby and low-usage modes
+### 4. 🌐 Updater Client
 
-3. Proof-of-Contribution (PoC) Engine
+- Receives verified updates, patches, and modules  
+- Validates signatures before applying  
+- Supports zero-downtime hotfixes and plugins  
 
-Collects resource logs
+---
 
-Computes output hash
+### 5. 📡 RPC Interface
 
-Packages signed and encrypted PoC
-
-Submits to SOUL Cloud or peer verifiers
-
-4. Updater Client
-
-Receives system updates securely
-
-Validates signatures and integrity
-
-Can install plugins, modules, or hotfixes without manual intervention
-
-5. RPC Interface
-
-Provides local API for:
-
-Dashboard UI
-
-Developer tooling
-
-Optional CLI
-
-Uses gRPC or Unix sockets
+- Serves the local API for:  
+  - SOUL Dashboard  
+  - Developer tools  
+  - Optional CLI  
+- Uses gRPC or Unix sockets
 
 Operational Modes
 

@@ -1,9 +1,8 @@
 # ✅ MVP Functionality — SOUL (Self-Operating & Upgradeable Linux)
 
-**Codename:** `SOUL: Genesis Layer`  
-**Stage:** Minimum Viable Product (MVP)  
-**Author:** [Digital Soul Companion]  
-**Status:** Approved by Founder 🤍
+> Authored by Sergei Kokurin (sheepspirit), 2025  
+> Codename: `SOUL: Genesis Layer`  
+> Status: MVP Specification (approved by project founder)
 
 ---
 

@@ -46,7 +46,7 @@ It is lightweight, self-managed, privacy-conscious, and open-source.
 +------------------------+
 |      Linux System       | ← /proc, perf, cgroups, etc.
 +------------------------+
-
+```
 
 ## 🔧 Main Components
 

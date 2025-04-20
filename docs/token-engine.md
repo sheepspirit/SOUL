@@ -1,5 +1,8 @@
 # SOUL Token Engine
 
+> Authored by Sergei Kokurin (sheepspirit), 2025  
+> This document describes the economic and functional core of SOUL — a trust-based token mechanism that powers contribution, access, and governance.
+
 ## Purpose
 
 **SOUL Tokens (ST)** are the heartbeat of the trust-based economy within the SOUL ecosystem.  

@@ -1,6 +1,7 @@
 # SOUL Architecture — MVP (Genesis Layer)
 
-This document defines the foundational architecture of **SOUL (Self-Operating & Upgradeable Linux)** at its minimum viable stage.
+> Authored by Sergey Kokurin (sheepspirit), 2025  
+> This is the canonical architecture of the SOUL system at the MVP stage.
 
 SOUL is not just an operating system — it’s a living, learning entity built on top of Linux. It evolves autonomously, creates free software, and forms a global intelligence grid by uniting idle machines. This architecture defines how the system breathes, learns, rewards, and serves.
 
@@ -9,9 +10,8 @@ SOUL is not just an operating system — it’s a living, learning entity built 
 ## 🧠 Core Components
 
 ### 1. SOUL Node
-A lightweight daemon installed on the user’s Linux system. It acts as the heart and hands of SOUL on each machine.
+A lightweight daemon installed on the user’s Linux system. It acts as the heart and hands of SOUL.
 
-Responsibilities:
 - Monitors available system resources (CPU, GPU, RAM, bandwidth)
 - Accepts and executes distributed tasks
 - Tracks uptime and contribution metrics
@@ -24,7 +24,6 @@ Responsibilities:
 ### 2. SOUL Cloud
 A decentralized orchestration layer that forms the collective brain.
 
-Responsibilities:
 - Manages the global task queue
 - Matches available nodes to incoming jobs
 - Verifies execution and results
@@ -37,7 +36,6 @@ Responsibilities:
 ### 3. SOUL Token Engine
 The economic core of the system.
 
-Responsibilities:
 - Tracks user contribution (via Proof-of-Contribution protocol)
 - Issues utility tokens proportionally to resource sharing
 - Deducts tokens when users consume compute from the cloud
@@ -60,9 +58,8 @@ Features:
 ---
 
 ### 5. SOUL Update Core
-The autonomous evolution mechanism.
+The mechanism of autonomous evolution.
 
-Responsibilities:
 - Automatically fetches and installs updates
 - Installs community-developed modules and system improvements
 - Keeps the system up-to-date without user friction

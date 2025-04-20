@@ -1,5 +1,8 @@
 # SOUL Node — Architecture & Functionality
 
+> Authored by Sergei Kokurin (sheepspirit), 2025  
+> This document describes the local daemon that powers the SOUL Network from within the user's system.
+
 ## Purpose
 
 The **SOUL Node** is the local daemon that powers the entire SOUL ecosystem from within the user’s machine.  

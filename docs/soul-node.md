@@ -93,17 +93,63 @@ It is lightweight, self-managed, privacy-conscious, and open-source.
   - Optional CLI  
 - Uses gRPC or Unix sockets
 
-Operational Modes
+---
 
-Mode
+## 🌀 Operational Modes
 
-Description
+SOUL Node operates in three adaptive modes:
 
-💤 Standby
+| Mode      | Description                                                                 |
+|-----------|-----------------------------------------------------------------------------|
+| 🟢 Standby   | Full resource sharing. Node contributes maximum available power.            |
+| ⚙️ Active    | Limited contribution (10–30%) during light user activity.                  |
+| 🛑 Opt-Out   | No resource sharing. Only self-monitoring and update functions active.     |
 
-Full resource sharing, max token earning
+Users can switch modes via Dashboard or CLI.  
+Auto-mode dynamically adjusts based on system load, time of day, or user preferences.
 
-⚙️ Active
+---
+
+## 🔐 Privacy & Security
+
+- ✅ No access to user files or personal data  
+- ✅ All outbound communication encrypted (TLS)  
+- ✅ Workloads executed in sandboxed environments  
+- ✅ Source code and binaries are open and auditable  
+- ✅ No background data exfiltration — consent required
+
+---
+
+## 📉 Resource Footprint
+
+- **CPU**: Idle ~99% of time; spikes only during task execution  
+- **RAM**: Lightweight footprint (~100–200MB average)  
+- **Disk**: Stores temporary logs and task cache (~100MB typical)  
+- **Network**: Optimized for low-traffic operations
+
+---
+
+## 📦 Installation & Distribution
+
+Available as:
+
+- `.deb`, `.rpm`, `.AppImage`, `.tar.gz` packages for major Linux distros  
+- Docker container image
+
+Requirements:
+
+- One-time system-level access (root/sudo)  
+- Persistent network connection (recommended)  
+- Optional wallet for token rewards
+
+---
+
+## 🔮 Future Enhancements
+
+- ✅ Plugin system for new task types (e.g. ML, rendering, compiling)  
+- ✅ Portable version for edge devices (e.g. Raspberry Pi, Jetson Nano)  
+- ✅ Idle-time estimator for smoother contribution scheduling  
+- ✅ Optional GPU priority tuning during user activity
 
 ## Summary
 

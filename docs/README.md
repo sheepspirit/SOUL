@@ -15,6 +15,13 @@ To democratize access to computing power and foster collective intelligence thro
 - **Proof-of-Contribution Protocol**: Verifiable contributions rewarded through a tokenized incentive system.
 - **Modular & Extensible Architecture**: Built on Linux, designed for flexibility and scalability.
 
+## 🧠 Core Values
+
+- **Ethical Computation**: Technology must serve people, not control them.
+- **Transparency**: All processes and code are open for review and discussion.
+- **Decentralization with Responsibility**: Power without accountability is just chaos.
+- **Collective Intelligence**: We are smarter together — SOUL exists to unlock that.
+
 ## 📜 License
 
 This project is licensed under the [Mozilla Public License 2.0](LICENSE), ensuring that modifications and enhancements remain open and accessible to the community.

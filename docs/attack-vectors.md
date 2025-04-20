@@ -1,8 +1,8 @@
 # SOUL — Attack Vectors & Defense Strategies
 
-This document outlines potential abuse scenarios within the SOUL network and describes how the system is designed to detect, mitigate, or completely prevent them.
-
-The goal is not to trust blindly — but to verify cryptographically, audit transparently, and design economically.
+> Authored by Sergey Kokurin (sheepspirit), 2025  
+> This document outlines potential abuse scenarios within the SOUL network and how the system is designed to detect, mitigate, or prevent them.  
+> The goal is not blind trust — but cryptographic verification, transparent auditability, and incentive-aligned defense.
 
 ---
 

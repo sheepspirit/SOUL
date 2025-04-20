@@ -105,65 +105,7 @@ Full resource sharing, max token earning
 
 ⚙️ Active
 
-Limited contribution (e.g. 10–20%) during light user activity
-
-🔒 Opt-Out
-
-Paused sharing; only local updates and monitoring active
-
-Users can switch modes via the Dashboard or CLI. Auto-mode may adjust dynamically based on CPU load or time of day.
-
-Privacy & Security
-
-✅ No user files or personal data ever accessed
-
-✅ All outbound communication is encrypted (TLS)
-
-✅ Workloads run in sandboxed environments
-
-✅ Open-source and verifiable binaries
-
-✅ Local data never leaves device without consent
-
-Resource Footprint
-
-CPU: Idle most of the time; minimal overhead
-
-RAM: Lightweight, <200MB average
-
-Disk: Stores task cache and logs (~100MB typical)
-
-Network: Communicates only when needed; efficient payloads
-
-Installation
-
-Available as:
-
-.deb, .rpm, .AppImage, .tar.gz for Linux
-
-Docker container
-
-Requires:
-
-Root or system-level access (once)
-
-Persistent connection (recommended)
-
-Optional wallet setup for token rewards
-
-Future Enhancements
-
-✅ Plugin system for task types (e.g. ML, render, compile)
-
-✅ Portable version for edge devices (Raspberry Pi, Jetson)
-
-✅ Mobile adaptation (limited PoC)
-
-✅ Remote node control from main dashboard
-
-✅ Smart energy mode integration (e.g. stop on battery)
-
-Summary
+## Summary
 
 The SOUL Node is the smallest unit of distributed intelligence within the SOUL network.It listens, contributes, learns, and evolves — silently and respectfully — to make the whole system more powerful, transparent, and humane.
 

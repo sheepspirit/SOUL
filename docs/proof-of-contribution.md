@@ -1,5 +1,10 @@
 # SOUL — Proof-of-Contribution Protocol (PoC)
 
+> Authored by Sergei Kokurin (sheepspirit), 2025  
+> This document defines the reward, verification, and trust mechanisms behind resource sharing in the SOUL Network.
+
+---
+
 ## Purpose
 
 **Proof-of-Contribution (PoC)** is the cryptographic trust layer that ensures every SOUL Node is rewarded fairly — based on actual, measurable, and verifiable work.  

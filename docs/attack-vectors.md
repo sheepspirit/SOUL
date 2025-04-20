@@ -1,6 +1,6 @@
 # SOUL — Attack Vectors & Defense Strategies
 
-> Authored by Sergey Kokurin (sheepspirit), 2025  
+> Authored by Sergei Kokurin (sheepspirit), 2025  
 > This document outlines potential abuse scenarios within the SOUL network and how the system is designed to detect, mitigate, or prevent them.  
 > The goal is not blind trust — but cryptographic verification, transparent auditability, and incentive-aligned defense.
 

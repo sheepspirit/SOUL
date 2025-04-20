@@ -26,6 +26,10 @@ To democratize access to computing power and foster collective intelligence thro
 
 This project is licensed under the [Mozilla Public License 2.0](LICENSE), ensuring that modifications and enhancements remain open and accessible to the community.
 
+## 🔗 Canonical Repository
+
+This repository is the official reference implementation of the SOUL infrastructure and principles. Forks are welcome, but this is the source of truth for the project's philosophy and architecture.
+
 ## 🤝 Contributions
 
 Contributions are welcome! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.

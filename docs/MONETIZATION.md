@@ -11,7 +11,7 @@ SOUL is not a commercial product. It is a public operating layer — autonomous,
 
 However, even a decentralized system needs coordination, development, and long-term care.
 
-That’s why we introduce a **minimal, transparent transaction fee** — designed to keep the project alive and fair.
+That’s why we introduce a **minimal, transparent transaction fee** — designed to keep the project alive, fair, and user-first.
 
 ---
 
@@ -22,7 +22,8 @@ When a user spends tokens to purchase compute resources from the network (e.g. b
 - **Default rate:** 3%  
 - **Maximum cap:** 5%  
 - **Minimum floor:** 0% (can be waived during early growth stages)  
-- **Fee recipient:** The project's core treasury, maintained transparently by the founder and/or a future DAO.
+- **Fee recipient:** The project's core treasury, maintained transparently by the founder and/or a future DAO  
+- **Fee currency:** The fee may be automatically converted to **USDT** or another stablecoin for sustainability and clarity
 
 ---
 
@@ -30,29 +31,33 @@ When a user spends tokens to purchase compute resources from the network (e.g. b
 
 The coordination fee helps fund SOUL’s growth and sustainability — and provides fair personal income to its creator, who maintains the core system.
 
-Most of the income funds:
-- Continued development of the SOUL Node and Cloud  
-- Public infrastructure (mirrors, docs, P2P storage)  
-- Grants for new contributors  
-- Maintenance of ethical and governance layers  
-- Education, outreach, and onboarding
+The coordination fee ensures:
+
+- Continued development of SOUL’s core components (Node, OS layer, cloud logic)
+- Maintenance of public infrastructure (mirrors, docs, updates, peer validation)
+- Microgrants for contributors and early node operators
+- Education, onboarding, and ethical community growth
+- A sustainable income for the system’s founder and long-term steward
+
+This is not about profit extraction — it's about keeping the mission alive.
 
 ---
 
 ## 🔍 Transparency & Governance
 
 - All revenue and spending will be published in an open ledger  
-- Any future change in the fee will be discussed and voted by the community  
-- The founder receives no salary — only a fair share of the ecosystem’s long-term sustainability
+- Any future change in the fee must be proposed and voted by the community  
+- The founder receives no fixed salary — only a share of the ecosystem’s real economic flow
 
 ---
 
 ## 🙌 Why This Model Works
 
 - It rewards contribution over speculation  
-- It doesn’t lock anyone out — access is always possible via participation  
-- It scales with usage, not user count  
-- It aligns economic flow with system health
+- It ensures open access through participation  
+- It scales naturally with network usage  
+- It funds the public good while staying transparent  
+- It reflects SOUL’s core principle: **earn your place, or support others who do**
 
 ---
 
